@@ -45,7 +45,7 @@ These results are the geometric mean of results run on from 5 "val" datasets, th
 
 <small>
   
-| Model | size<br><sup>(pixels)  | params<br><sup>(M) | mAP50 Person | mAP50 Face  | mAP50 Vehicle | mAP50 Pose | mAP59 Face KP | mAP50 Attr <br>(Main) | mAP50 Attr <br>(colour) |
+| Model | size<br><sup>(pixels)  | params<br><sup>(M) | mAP50 Person | mAP50 Face  | mAP50 Vehicle | mAP50 Pose | mAP50 Face KP | mAP50 Attr <br>(Main) | mAP50 Attr <br>(colour) |
 | ---------- | --------- | ----------- | --------------- | ----------- | --------- | --------- |--------- |-------- | ------------ |
 |[Yolo-dpa-l](https://drive.google.com/file/d/1DwRpgS53MtQYM4G7Rm1K7OBxHhguaiI5/view?usp=drive_link)   | 640 | 26.2 | 0.874 | 0.691 | 0.778 | 0.828 | 0.707 | 0.603 | 0.556 |
 |[Yolo-dp-l](https://drive.google.com/file/d/1veVJ9y6Set3oIDtZ47_Zpz6cnYqyMauy/view?usp=drive_link)    | 640 | 26.2 | 0.883 | 0.740 | 0.732 | 0.822 | 0.733 |       |       | 
