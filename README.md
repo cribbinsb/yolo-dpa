@@ -18,7 +18,7 @@ Contents: [Introduction](#introduction) | [Test Results](#test-results) | [Usage
 
 <b>Yolo-DPA</b> is a set of proof of concept models derived from Ultralytics yolo11 to investigate the performance of combining <b>object detection</b>, <b>pose/keypoint detection</b> and <b>binary attribute detection</b> together into a single model, done in one pass. Remarkably, adding all the extra capabilities does not seem to make the model too much worse at the basic object detection versus the original object detection only model, with only a  tiny increase in parameter/flop count.
 
-It was also intended to test the [dataset processing pipeline]((https://github.com/cribbinsb/dataset_processor) which attempts things like automatic labelling, combining multiple datasets together, and using vision-LLMs
+It was also intended to test the [dataset processing pipeline](https://github.com/cribbinsb/dataset_processor) which attempts things like automatic labelling, combining multiple datasets together, and using vision-LLMs
 
 These models and technologies are intended as a proof of concept only. Please check out the [license](#licence) and also be mindful of the licenses of the datasets on which these models were trained.
 
@@ -96,7 +96,7 @@ Weights provided under <b>AGPL</b>, and for <b> noncommercial use only</b>.
 
 Additional restrictions may be imposed by licenses of the datasets on which these models were trained.
 
-Please contact [me](mailto:bernando.cribbenza@gmail.com?subject=yolo-pda%20question&body=Your%code%is%rubbish.) if any questions.
+Please contact [me](mailto:bernandocribbenza@gmail.com?subject=yolo-dpa%20question&body=Your-code-is-rubbish!) if any questions.
 
 
   
