@@ -8,5 +8,5 @@ dependencies:
   - pip
   - pip:
     - gdown
-    - git+https://github.com/cribbinsb/ultralytics.git@mdb
+    - git+https://github.com/cribbinsb/ultralytics.git@multilabel
     - git+https://github.com/cribbinsb/stuff.git
