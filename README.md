@@ -23,9 +23,9 @@ It was also intended to test the [dataset processing pipeline](https://github.co
 These models and technologies are intended as a proof of concept only. Please check out the [license](#licence) and also be mindful of the licenses of the datasets on which these models were trained.
 
 #### Developed/trained using
-- Ultralytics Yolo11 (slightly) modified for multi-label detection support (https://github.com/cribbinsb/ultralytics/tree/multilabel)
-- DatasetProcessor (https://github.com/cribbinsb/dataset_processor)
-- AzureML (https://github.com/cribbinsb/azureml)
+- [Ultralytics Yolo11 (slightly) modified for multi-label detection support](https://github.com/cribbinsb/ultralytics/tree/multilabel)
+- [DatasetProcessor](https://github.com/cribbinsb/dataset_processor)
+- [AzureML](https://github.com/cribbinsb/azureml)
 
 #### Test models (weights provided) has
 - <b>Detection</b> of 5 basic classes *Person, Face, Vehicle, Animal, Weapon*
